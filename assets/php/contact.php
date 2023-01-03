@@ -14,7 +14,7 @@ $subject = 'NEUE NACHRICHT || KONTAKTFORMULAR';
 
 // form field names and their translations.
 // array variable name => Text to appear in the email
-$fields = array('name' => 'Vorname', 'surname' => 'Nachname', 'need' => 'Betreff', 'email' => 'Email', "phone" => "Telefon", 'message' => 'Nachricht'); 
+$fields = array('name' => 'Vorname', 'surname' => 'Nachname', 'need' => 'Betreff', 'email' => 'Email', 'phone' => 'Telefon', 'message' => 'Nachricht'); 
 
 // message that will be displayed when everything is OK :)
 $okMessage = 'Vielen Dank für Ihre Nachricht.';
